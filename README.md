@@ -1,4 +1,4 @@
-# Playground for golang
+# Playground for go
 
 [Go 编程语言规范](https://go.dev/ref/spec)
 
